@@ -1,1 +1,1 @@
-# COMP-484-ProjectArchitecture
+# COMP-484-Project-Architecture
